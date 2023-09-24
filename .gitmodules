@@ -1,3 +1,18 @@
 [submodule "SoftwareEngineering3"]
 	path = SoftwareEngineering3
 	url = git@github.com:DemiAina/SoftwareEngineering3.git
+[submodule "Mobile-Software-Development-"]
+	path = Mobile-Software-Development-
+	url = git@github.com:DemiAina/Mobile-Software-Development-.git
+[submodule "Databases-2"]
+	path = Databases-2
+	url = git@github.com:DemiAina/Databases-2.git
+[submodule "Cloud-Computing"]
+	path = Cloud-Computing
+	url = git@github.com:DemiAina/Cloud-Computing.git
+[submodule "Client-Serving-Programming"]
+	path = Client-Serving-Programming
+	url = git@github.com:DemiAina/Client-Serving-Programming.git
+[submodule "AI"]
+	path = AI
+	url = git@github.com:DemiAina/AI.git
